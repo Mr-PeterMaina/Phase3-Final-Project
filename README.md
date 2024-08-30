@@ -27,18 +27,10 @@
 >                        MULTIVARIATE ANALYSIS
 ![alt text](Images/correlation.png) 
 >                       BIVARIATE ANALYSIS OF CHURN FEATURE
-<p align="left", style="float: left; margin-right: 10px;">
-  <img src="Images/International & churn.png" alt="Alt text" width="400">
-</p>
-<p align="right">
-  <img src="Images/voicemail & churn.png" alt="Alt text" width="400">
-</p>
-<p align="left", style="float: left; margin-right: 10px;">
-  <img src="Images/CS & churn.png" alt="Alt text" width="400">
-</p>
-<p align="right">
-  <img src="Images/ttldayminutes & churn.png" alt="Alt text" width="400">
-</p>
+> ![alt text](<Images/International & churn.png>)
+> ![alt text](<Images/voicemail & churn.png>)
+> ![alt text](<Images/CS & Churn.png>)
+> ![alt text](<Images/ttldayminutes & churn.png>)
 
 ## **DATA MODELLING**
 > The models used are:
